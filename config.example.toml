@@ -1,0 +1,11 @@
+# port to listen
+port = "1234"
+
+[database]
+type = "postgres"
+host = "172.17.0.2"
+port = "5432"
+user = "postgres"
+password = "mysecretpassword"
+name = "apiexample"
+sslmode = "disable"
