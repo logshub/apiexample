@@ -1,5 +1,8 @@
 # API Example
 
+[![Build](https://github.com/logshub/apiexample/workflows/Go/badge.svg?branch=master)](https://github.com/logshub/apiexample/actions?query=workflow%3AGo)
+[![Go Report Card](https://goreportcard.com/badge/github.com/logshub/apiexample)](https://goreportcard.com/report/github.com/logshub/apiexample)
+
 ### Installation
 
 Copy `config.example.toml` to `config.toml` and provide valid configuration.
